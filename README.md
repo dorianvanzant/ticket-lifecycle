@@ -50,7 +50,7 @@ Went through the tickets and changed the SLAs to fit the severity of the issues,
 <br />
 
 <p>
-<img src="https://i.imgur.com/TNSsdgQ.jpg" height="100%" width="100%" alt="osTicket Resolve"/>
+<img src="https://i.imgur.com/wqb8Dl9.jpg" height="100%" width="100%" alt="osTicket Resolve"/>
 </p>
 <p>
 Resolved and closed a ticket.
