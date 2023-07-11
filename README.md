@@ -37,7 +37,7 @@ Signed in as different Users and submitted tickets
 <img src="https://i.imgur.com/inDbVsN.jpg" height="100%" width="100%" alt="osTicket Troubleshooting"/>
 </p>
 <p>
-Logged in as an Agent, and had to troubleshoot. The Agent was unable to see the tickets. She needed to be extended access to that Department.
+Logged in as an Agent, and had to troubleshoot. The Agent was unable to see the tickets. They needed to be extended access to that Department.
 </p>
 <br />
 
